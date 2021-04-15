@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Working with Version Control
-nav_order: 6
+nav_order: 4
 ---
 
 # Working with Version Control
