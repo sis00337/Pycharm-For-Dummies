@@ -46,7 +46,7 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
     **RECOMMENDED**
     {: .label .label-blue }
         This guide recommends "Option A" as this option is the quickest method.
-        Option B serves as an alternative method should the Option A log-in process fails.
+        Option B serves as an alternative method when Option A fails to connect your GitHub account.
     
 ### Option A - Log-in with GitHub Credentials
 This option will show you how to use your GitHub credentials to log-in directly from GitHub to add the associated account to PyCharm.
