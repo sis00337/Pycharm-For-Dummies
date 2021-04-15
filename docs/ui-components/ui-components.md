@@ -176,6 +176,8 @@ Success! You learned how to share a local PyCharm project to GitHub.
 ---
 
 ## Clone an Existing Project to PyCharm
+PyCharm allows you to copy an existing GitHub project to your local computer. This feature can be useful when you want to create a new project based on an existing project. Follow to the next steps to learn how!
+
 1. In a new browser window go to an existing GitHub repository page that contains the project of interest.
 
 2. Click on the <span style="color:green">***CODE***</span> button to access the Git url. Click on the clipboard icon to copy the url.
