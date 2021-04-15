@@ -2,7 +2,7 @@
 layout: default
 title: Programming in PyCharm
 nonav: true
-exclude: true
+nav_exclude: true
 ---
 
 # Programming in PyCharm
