@@ -1,7 +1,7 @@
 <p align="center">
     <h1 align="center">PyCharm For Dummies</h1>
     <p align="center">A document with multiple walkthroughs to help people utilize one of the many IDEs (Integrated Development Environments) called PyCharm to its maximum potential.</p>
-    <p align="center"><strong><a href="https://harryseo1992.github.io/Pycharm-For-Dummies/">See it in action!</a></strong></p>
+    <p align="center"><strong><a href="https://sis00337.github.io/Pycharm-For-Dummies/">See it in action!</a></strong></p>
     <br><br><br>
 </p>
 
@@ -10,12 +10,12 @@
 2. Any information that I should know about before starting?
 3. I'm ready to start learning!
 4. I'm running into jargons!
-5. I'm so lost. I'm not getting the results I hsould be getting...
+5. I'm so lost. I'm not getting the results I should be getting...
 6. Closing off
 
 ## Introduction
 
-With continuing focus in the IT industries, the number of people choosing to learn programming or switching their field to programming is increasing day by day. This document was created to help people who have just entered the world of programming and are taking their first step with Python. The document currently holds several guides that help with:
+With continuing focus in the IT industries, the number of people choosing to learn programming or switching their field to programming is increasing day by day. This document was created to help people who have just entered the world of programming and are taking their first step in coding Python with PyCharm. The document currently holds several guides that help with:
 
 1. Setting up PyCharm.
 2. Linking to GitHub.
@@ -36,7 +36,7 @@ Good! Happy to hear you are still with us! Take a look at the guides available t
 
 ## I'm running into jargons!
 
-While we made sure to be clear and concise, these are terms you will have to run into sooner or later. However, we are aware that people have to start from somewhere and have included them in our [Glossary Section](https://sis00337.github.io/Pycharm-For-Dummies/docs/search/).
+While we made sure to be clear and concise, there are terms you will have to run into sooner or later. However, we are aware that people have to start from somewhere and have included them in our [Glossary Section](https://sis00337.github.io/Pycharm-For-Dummies/docs/search/).
 
 
 ## I'm so lost. I'm not getting the results I should be getting...
