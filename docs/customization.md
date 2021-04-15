@@ -42,7 +42,7 @@ As you learn how to code, you soon realize that there will be a lot of group cod
             Therefore, it is better to "Merge incoming changes" instead.
 
 
-Congratulations! You should see a pop-up that indicates successful project update.
+Success! You should see a pop-up that indicates successful project update.
 
 ![success](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_success_real.png?raw=true "Updated project")
 
@@ -100,7 +100,7 @@ As highlighted below, you will see 3 shapes on the top right of your PyCharm.
     ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_and_push_finally_pushing.png?raw=true "committing changes")
 
 
-Congratulations! You committed and pushed the changes you made to the files! 
+Success! You committed and pushed the changes you made to the files! 
 
 **Recommended**
 {: .label .label-blue } 
@@ -118,6 +118,6 @@ If you have run into this error above, it means the repository has changes that 
 
 ---
     
-Now that we've looked at how to pull, commit, and push, you are good to go. Have fun working with your projects in PyCharm!
+Congratulations!!! Now that we've looked at how to pull, commit, and push, you are good to go. Have fun working with your projects in PyCharm!
 
 --- 
