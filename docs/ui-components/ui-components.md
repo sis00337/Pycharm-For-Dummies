@@ -1,4 +1,4 @@
-`---
+---
 layout: default
 title: Linking to Github
 nav_order: 3
