@@ -85,6 +85,8 @@ In this stage, you will be able to create a new project in your PyCharm.
     **GO**
     {: .label .label-green }
         If you can see an interpreter as the figure below, GO STRAIGHT TO STEP 5.
+        
+    <a href=#number_5>STEP 5</a>
 
     ![Creating-new-project-1](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/7.click_down_arrow.png?raw=true "Creating new project")
 
@@ -104,7 +106,7 @@ In this stage, you will be able to create a new project in your PyCharm.
 
     ![Creating-new-project-3](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/9.Interpreter_found.png?raw=true "Creating new project 3")
 
-5. Press the *Create* button, then you get a new project in your PyCharm.
+5. <span id="number_5">Press the *Create* button, then you get a new project in your PyCharm.</span>
 
     ![Creating-new-project-4](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/10.create_new_project.png?raw=true "Creating new project 4")
     
