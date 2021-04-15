@@ -2,7 +2,7 @@
     <h1 align="center">PyCharm For Dummies</h1>
     <p>A document with multiple walkthroughs to help people utilize one of the many IDEs (Integrated Development Environments) called PyCharm to its maximum potential.</p>
     <p>PyCharm allows you to code in Python efficiently with a vast number of straightforward features. Do you want to read up on how to use one of the best IDEs available?</p>
-    <p align="center"><strong><a href="https://sis00337.github.io/Pycharm-For-Dummies/">See it in action!</a></strong></p>
+    <p align="left"><strong><a href="https://sis00337.github.io/Pycharm-For-Dummies/">See it in action!</a></strong></p>
     <br>
 </p>
 
