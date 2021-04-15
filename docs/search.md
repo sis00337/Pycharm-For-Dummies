@@ -16,7 +16,7 @@ nav_order: 5
 ---
 
 #### .py file
-: The file extension for the file containing python script.
+: The file extension for the file containing Python script.
 
 #### Access token
 : An authentication key that provides application access on behalf of the user.
@@ -31,7 +31,7 @@ nav_order: 5
 : The act of saving and logging changes to a source file.
 
 #### Environment variables
-: An environment variable is a dynamic "object" on a computer, containing an editable value, which may be used by one or more software programs in Windows. Environment variables help programs know what directory to install files in, where to store temporary files, and where to find user profile settings.
+: An environment variable is a dynamic "object" on a computer. It contains an editable value that can be used by one or more software programs in Windows operating system. Environment variables let programs know where to find user profile settings, where to store temporary files, and what directory to install files in.
 
 #### Git
 : An open-sourced version control software used by many developers to track and manage file changes. This software is useful when collaborating in a software development environment.
