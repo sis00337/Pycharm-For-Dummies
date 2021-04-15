@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Setting up PyCharm
+title: Setting Up PyCharm
 nav_order: 2
 permalink: /docs/configuration
 ---
 
-# Setting up PyCharm
+# Setting Up PyCharm
 {: .no_toc }
 
 
