@@ -20,7 +20,8 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
 
 **Recommended**
 {: .label .label-blue }
-    Have an existing GitHub account and/or GitHub account credentials ready before proceeding to ensure a smooth experience.
+    Have an existing GitHub account and/or GitHub account credentials ready 
+    before proceeding to ensure a smooth experience.
 
 ## Connect your GitHub account
 Adding your GitHub account to PyCharm can be a confusing process for first-time users. The following steps will allow you to smoothly add your account to PyCharm.
@@ -45,7 +46,8 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
     
     **RECOMMENDED**
     {: .label .label-blue }
-        This guide recommends <b>Option A</b> as this option is the quickest method. Option B serves as an alternative method should the Option A log-in process fails.
+        This guide recommends <b>Option A</b> as this option is the quickest method. 
+        Option B serves as an alternative method should the Option A log-in process fails.
     
 ### Option A - Log-in with GitHub Credentials 
 1. Click **Log in via GitHub...**.
@@ -77,7 +79,7 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
 
     **STOP**
     {: .label .label-red }
-        Make sure that <b>repo</b>, <b>workflow</b>, <b>read:org</b>, and <b>gist</b> are checked off.
+        Make sure that "repo", "workflow", "read:org", and "gist" are checked off in the box.
         The access token may not work correctly if these four scope options are not selected.   
 
 6. Press **Generate Token** to confirm your access token settings.
@@ -89,7 +91,8 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
     **CAUTION**
     {: .label .label-yellow }
         Keep your access tokens confidential as the tokens provide access to your GitHub account!
-        For security reasons, this newly generated token is <b>ONE TIME ACCESS</b> only. Ensure you have copied the key or you will have to generate another access token.
+        For security reasons, this newly generated token is "ONE TIME ACCESS" only. 
+        Ensure you have copied the key or you will have to generate another access token.
 
 8. Back to PyCharm, click **Log in with Token...**.
 
@@ -113,7 +116,7 @@ PyCharm allows multiple accounts to be added and managed via the Version Control
 
 1. Press **Ctrl+Alt+S** (default shortcut) to open the **Version Control Settings menu** or follow [Steps 1 and 2 in the previous section](#connect-your-github-account).
 
-2. Add multiple GitHub accounts by pressing the **+** button and follow [the same procedure to add a GitHub account starting from Step 3 in the previous section](#connect-your-github-account).
+2. Add multiple GitHub accounts by pressing the **+** button and follow the same procedure to [add a GitHub account starting in the previous section](#connect-your-github-account).
 
     ![Control-GitHub-Accounts](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-MultipleAccounts.png?raw=true "Control GitHub Accounts")
 
@@ -130,7 +133,9 @@ PyCharm allows you to upload and share your project directly onto GitHub. Follow
 
 **STOP**
 {: .label .label-red }
-    Atleast one GitHub account must be added to PyCharm before proceeeding. If you have multiple GitHub accounts, check that the chosen account has been **set to default** to ensure that your project will be shared under the correct GitHub account.
+    Atleast one GitHub account must be added to PyCharm before proceeeding. 
+    If you have multiple GitHub accounts, check that the chosen account has been **set to default**. 
+    This check will ensure that your project will be shared under the correct GitHub account.
   
 1. Select and open the chosen PyCharm project that you want to share into your current workspace.
 
@@ -146,7 +151,8 @@ PyCharm allows you to upload and share your project directly onto GitHub. Follow
     
         **STOP**
         {: .label .label-red }
-            You have the option to set the your repositoriy visibilty to private by checking <b>Private</b> on the right hand side.
+            You have the option to set the your repository visibilty to private by checking "Private" 
+            in the box right next to "Repository Name".
    
     2. Provide a project description.
     
