@@ -105,7 +105,6 @@ Success! You committed and pushed the changes you made to the files!
     It is a good practice to commit and push often;   
     committing and pushing after coding a function is ideal.
 
----
 ## Side-note
 {: .d-inline-block }
 
