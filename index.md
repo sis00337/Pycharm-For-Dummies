@@ -25,7 +25,7 @@ PyCharm for dummies is a document with multiple walkthroughs to help people util
 
 ## Preface
 
-PyCharm is one of the many IDEs (Integrated Development Environments) developed by JetBrains. PyCharm is available across many platforms such as Windows and Mac. PyCharm allows you to code in Python efficiently with its many useful coding features like debugging, analyzing codes, and version control integrations. Along with its vast number of straightforward features, PyCharm has become one of the best IDEs for beginners and professionals alike.
+PyCharm is one of the many IDEs (Integrated Development Environments) developed by JetBrains and is available across many platforms such as Windows and Mac. PyCharm allows you to code in Python efficiently with its many useful coding features like debugging, analyzing codes, and version control integrations. Along with its vast number of straightforward features, PyCharm has become one of the best IDEs for beginners and professionals alike.
 
 ---
 
