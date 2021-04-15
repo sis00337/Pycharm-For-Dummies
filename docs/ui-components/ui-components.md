@@ -205,4 +205,4 @@ Success! You have now cloned an existing GitHub project to your local computer.
 
 Congratulations!!! You have sucessfully learned how to configure GitHub accounts and repositories on PyCharm.
 
-Next, try to follow [Working with Version Control](./customization.md) if you want to learn how to make and save changes to your GitHub repository directly from PyCharm.
+Next, try to follow [Working with Version Control](./customization) if you want to learn how to make and save changes to your GitHub repository directly from PyCharm.
