@@ -64,13 +64,15 @@ The guide will cover the following basic tasks that are essential for beginners.
 
 ## Typographical Conventions
 
-The following icons will be used to help orientate you throughout this guide.
+The following conventions will be used to help orientate you throughout this guide.
 
 Convention | Description
 --- | ---
-**Menu main heading** -> **Menu sub-heading** | Specific menu navigation headings
-*commit button* | Specific menu options / buttons
+**Menu main heading** | Specific menu headings
+**Menu main heading** -> **Menu sub-heading** | Menu navigation
+*commit button* | Specific menu button options
 
+The following color-coded labels will provide helful warnings to ensure a smooth experience.
 
 GO 
 {: .label .label-green }
