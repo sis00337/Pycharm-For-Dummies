@@ -1,180 +1,65 @@
 ---
 layout: default
-title: Markdown kitchen sink
+title: Troubleshooting
 nav_order: 99
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Troubleshooting
+{: .fs-9 }
+{: .no_toc}
+Troubleshooting description
+{: .fs-6 .fw-300 }
 
-[Link to another page](another-page).
+---
 
-There should be whitespace between paragraphs.
+## TABLE OF CONTENTS
+{: .no_toc .text-delta}
+1. TOC
+{:toc}
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# [](#header-1)Header 1
+# Add Python to PATH
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+If your Python is not on your **PATH**, your Python will not be working in your Command Prompt.
 
-## [](#header-2)Header 2
+You **MUST** place your Python program on your **PATH**.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Let's do it!!
 
-### [](#header-3)Header 3
+1. Search for **python.exe** using Windows search like figure below. Then, right-click the search result, and click *Open file location*.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+    ![Find-Python](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/find_python.png?raw=true "Find Python")
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+2. Right click the address bar in the File Explorer, and click *Copy address as text* as figure below.
 
-#### [](#header-4)Header 4 `with code not transformed`
+    ![Copy-address](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/copy_address_as_text.png?raw=true "Copy address")
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+3. Click Windows search again, search for **Control Panel**, and open Control Panel.
 
-##### [](#header-5)Header 5
+    ![Opening-control-panel](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/opening_control_panel.png?raw=true "Opening control panel")
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+4. Type **environment** in the search bar on the top right of Control Panel. Then, click *Edit environment variables for your account*.
 
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Nesting an ol in ul in an ol
-
-- level 1 item (ul)
-  1. level 2 item (ol)
-  1. level 2 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-- level 1 item (ul)
-  1. level 2 item (ol)
-  1. level 2 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-  1. level 4 item (ol)
-  1. level 4 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-- level 1 item (ul)
-
-### And a task list
-
-- [ ] Hello, this is a TODO item
-- [ ] Hello, this is another TODO item
-- [x] Goodbye, this item is done
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
+    ![Search-environment-in-control-panel](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/search_environment_in_control_panel.png?raw=true "Search environment in control panel")
 
 
-### Definition lists can be used with HTML syntax.
+5. Move your cursor to *Path* in the **Environment Variables window**. Then, click *Edit...* button.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+    **CAUTION**
+      {: .label .label-yellow }
+          DO NOT get confused with Path in System variables (at the bottom).
+          You MUST choose Path in User variable (at the top).
 
-#### Multiple description terms and values
+    ![Changing-path-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/changing_path.png?raw=true "Changing path 1")
 
-Term
-: Brief description of Term
+6. Click *New* button and type the address that you copied from step 2. Click *New* button again, type the address again, and add **Scripts\\** at the end. Click *OK* when you are done with adding two paths.
 
-Longer Term
-: Longer description of Term,
-  possibly more than one line
+    ![Changing-path-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/changing_path_2.png?raw=true "Changing path 2")
 
-Term
-: First description of Term,
-  possibly more than one line
+7. Click *OK* again. Then, you will have successfully added your Python on **PATH**.
 
-: Second description of Term,
-  possibly more than one line
+    ![Changing-path-3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/changing_path_3.png?raw=true "Changing path 3")
 
-Term1
-Term2
-: Single description of Term1 and Term2,
-  possibly more than one line
-
-Term1
-Term2
-: First description of Term1 and Term2,
-  possibly more than one line
-
-: Second description of Term1 and Term2,
-  possibly more than one line
-  
-### More code
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+# Cannot directly Log-in to GitHub Account.
+If you are unable to log-in with your GitHub account credentials. [Try logging-in with a personal access token.](./ui-components/ui-components.md#option-b---log-in-with-personal-access-token)
