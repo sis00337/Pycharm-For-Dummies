@@ -58,7 +58,7 @@ For Option A, your GitHub credentials are needed to sign-in directly from GitHub
 3. Enter your GitHub account credentials. If successful, the log-in page will redirect you back to PyCharm. 
 
     **GO**
-        {: .label .label-green }
+    {: .label .label-green }
         Proceed to the next step by [verifying your GitHub account.](#verify-your-github-account-log-in)
 
 ### Option B - Log-in with Personal Access Token
@@ -105,7 +105,9 @@ For Option B, a personal accesss token will be generated from GitHub to add the 
 
     ![Paste-Access-Token](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-4.png?raw=true "Paste Access Token")
 
-Proceed to the next step by [verifying your GitHub account.](#verify-your-github-account-log-in)
+    **GO**
+    {: .label .label-green }
+        Proceed to the next step by [verifying your GitHub account.](#verify-your-github-account-log-in)
 
 ### Verify Your GitHub Account Log-in
 1. Confirm your GitHub account details displayed next to the light blue arrow. Press *Apply* and press *OK* to save your changes. 
