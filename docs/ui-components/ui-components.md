@@ -20,8 +20,7 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
 
 **Recommended**
 {: .label .label-blue }
-    Have an existing GitHub account and/or GitHub account credentials ready 
-    before proceeding to ensure a smooth experience.
+    Have an existing GitHub account and/or GitHub account credentials ready to ensure a smooth experience.
 
 ## Connect your GitHub account
 Adding your GitHub account to PyCharm can be a confusing process for first-time users. The following steps will allow you to smoothly add your account to PyCharm.
@@ -34,7 +33,7 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
 
     ![Connect-GitHub-Account-Step2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-2.png?raw=true "Version Control -> GitHub")
 
-3.  Choose either Option A or Option B to log-in to your GitHub account.
+3.  Choose either **Option A** or **Option B** to log-in to your GitHub account.
 
     ![Connect-GitHub-Account-Step3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-3.png?raw=true "Log-in Options A and B")
 
@@ -50,7 +49,7 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
         Option B serves as an alternative method should the Option A log-in process fails.
     
 ### Option A - Log-in with GitHub Credentials 
-1. Click *Log in via GitHub...*.
+1. Click *Log in via GitHub...* .
 
 2. Wait for PyCharm to redirect you to a log-in page. 
 
@@ -94,9 +93,9 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
         For security reasons, this newly generated token is "ONE TIME ACCESS" only. 
         Ensure you have copied the key or you will have to generate another access token.
 
-8. Back to PyCharm, click *Log in with Token...*.
+8. Back to PyCharm, click *Log in with Token...* .
 
-9. Paste your access token in the box and presss *Add Account*. 
+9. Paste your access token in the box and press *Add Account*. 
 
     ![Paste-Access-Token](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-4.png?raw=true "Paste Access Token")
 
@@ -107,7 +106,7 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
 
     ![Connect-GitHub-Account-Step4](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-5.png?raw=true "Confirm Settings")
     
-Success! You have sucessfully added your GitHub account to PyCharm.
+Success! You have added your GitHub account to PyCharm.
 
 ---
 
@@ -128,7 +127,7 @@ Success! You have learned to add, delete, and set default GitHub accounts on PyC
 
 ---
 
-## Share your project on GitHub
+## Share your project to GitHub
 PyCharm allows you to upload and share your project directly onto GitHub. Follow the next steps to learn how!
 
 **STOP**
@@ -166,7 +165,7 @@ PyCharm allows you to upload and share your project directly onto GitHub. Follow
 
     ![Shared-Project-Confirmation](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-ShareProject-4.png?raw=true "Shared Project Confirmation")
 
-6. Verify your project repository by clicking on the project name in the pop-up window. PyCharm will be direct you to the newly created GitHub repository.
+6. Verify your project repository by clicking on the project name in the pop-up window. PyCharm will be direct you to the newly created repository on GitHub.
 
     ![Project Repositiory](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-ShareProject-5.png?raw=true "Project Repositiory")
     
@@ -191,9 +190,9 @@ PyCharm allows you to copy an existing GitHub project to your local computer. Th
 
     ![Paste-Git-URL](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-CloneRepo-3.png?raw=true "Paste Git URL")
 
-    1. Paste the copied Git url from Step 2 into the **URL box**.
+    1. In the **URL box**, paste the copied Git url.
 
-    2. Select where the cloned project will be stored in your directory.
+    2. In the **Directory box**, choose where the cloned project will be stored in your local computer.
 
     3. Press *Clone* to copy the GitHub repository to your computer.
 
