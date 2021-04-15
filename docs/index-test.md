@@ -7,7 +7,6 @@ nav_order: 6
 # Troubleshooting
 {: .fs-9 }
 {: .no_toc}
-Troubleshooting description
 {: .fs-6 .fw-300 }
 
 ---
