@@ -56,7 +56,7 @@ PyCharm For Dummies was written with the following requirements in mind.
 
 The guide will cover the following basic tasks that are essential for beginners. Screenshots and helpful hints will be provided throughout the guide to promote understanding.
 
-1. Setting up PyCharm
+1. Setting Up PyCharm
 2. Linking to GitHub Account 
 3. Working with Version Control
 
