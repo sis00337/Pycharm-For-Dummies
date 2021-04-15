@@ -19,7 +19,7 @@ nav_order: 5
 : The file extension for the file containing Python script.
 
 #### Access token
-: An authentication key that provides application access on behalf of the user.
+: An authentication key that provides an application access on behalf of the user.
 
 #### Clone
 : The act of copying all the source files from a remote repository to a local computer.
