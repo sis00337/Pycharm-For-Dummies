@@ -102,9 +102,10 @@ Congratulations! You committed and pushed the changes you made to the files!
 {: .label .label-blue } 
     It is a good practice to commit and push often;   
     Committing and pushing after coding a function is ideal.
+    
+Now that we've looked at how to pull, commit, and push, you are good to go. Have fun working with your projects in PyCharm!
 
 --- 
-
 ## Side-note
 {: .d-inline-block }
 **CAUTION**
