@@ -51,6 +51,7 @@ In Windows 10, you can check it using Command Prompt.
     
     [Troubleshooting - Python Not Working in Your Command Prompt](https://sis00337.github.io/Pycharm-For-Dummies/docs/index-test/#python-not-working-in-your-command-prompt)
     
+    
     Next, let's print **Hello World** using Python.
 
 4. Type **print("Hello World")** next to the angled brackets and press *ENTER* (<span style="color:red">**CASE SENSITIVE**</span>).
