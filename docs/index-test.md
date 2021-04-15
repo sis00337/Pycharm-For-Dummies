@@ -19,7 +19,7 @@ Troubleshooting description
 
 ---
 
-# Add Python to PATH
+# Python not working in your Command Prompt
 
 If your Python is not on your **PATH**, your Python will not be working in your Command Prompt.
 
