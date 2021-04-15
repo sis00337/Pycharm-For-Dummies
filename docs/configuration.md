@@ -69,6 +69,8 @@ Great! Your Python seems to be working perfectly!
 
 Next, let's create a new project in PyCharm.
 
+---
+
 ## Create a New Project in PyCharm
 In this stage, you will be able to create a new project in your PyCharm.
 
@@ -112,6 +114,8 @@ Fantastic! You successfully created a new project in your PyCharm!
 
 Next, let's create a **.py** file in your project.
 
+---
+
 ## Create **.py** File into the Project
 You will be able to create a **.py** file after completing the following steps.
 
@@ -128,6 +132,8 @@ Brilliant! You successfully created a **.py** file in your project!
 You can also create multiple **.py** files in a project by repeating the steps above.
 
 Finally, let's run the **.py** file!
+
+---
 
 ## Run Your **.py** File
 Running your **.py** file is one of the fundamental practices for Python beginners because you can check if your codes are working by running the codes.
