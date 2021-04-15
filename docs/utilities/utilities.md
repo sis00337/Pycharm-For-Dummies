@@ -4,6 +4,7 @@ title: Programming in PyCharm
 has_children: false
 nav_exclude: true
 nonav: true
+nav_order: 99
 ---
 
 # Programming in PyCharm
