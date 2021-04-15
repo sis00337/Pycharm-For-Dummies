@@ -1,6 +1,6 @@
 - text: Introduction
   url: /
-- text: Setting up PyCharm
+- text: Setting Up PyCharm
   url: /docs/configuration/
 - text: Linking to Github
   url: /docs/ui-components/
