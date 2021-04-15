@@ -19,10 +19,10 @@ nav_order: 5
 : The file extension for the file containing python script.
 
 #### Access token
-: An authentication key that provides an application access on behalf of the user.
+: An authentication key that provides application access on behalf of the user.
 
 #### Clone
-: The act of copying all the source files from a remote repositiory to a local computer.
+: The act of copying all the source files from a remote repository to a local computer.
 
 #### cmd
 : Microsoft Windows command that opens Command Prompt.
@@ -37,22 +37,28 @@ nav_order: 5
 : An open-sourced version control software used by many developers to track and manage file changes. This software is useful when collaborating in a software development environment.
 
 #### GitHub
-: A popular Git repositiory hosting service.
+: A popular Git repository hosting service.
+
+#### IDE
+: IDE stands for the integrated development environment. IDE is an application that provides comprehensive tools and functions to computer programmers for software development.
 
 #### Interpreter
 :  An interpreter is a program that reads and executes code.
 
 #### Pull
-: The act of receiving updates from a remote repositiory to your local source files.
+: The act of receiving updates from a remote repository to your local source files.
 
 #### Push
-: The act of updating local changes of a source file onto a remote repositiory.
+: The act of updating local changes of a source file onto a remote repository.
+
+#### PyCharm
+: An integrated development environment (IDE) used in computer programming. It is specifically for the Python language.
 
 #### Python
 : An object-oriented language that focuses on simple code syntax and readability. 
 
 #### Repository
-: A centralized location that hosts multiple source codes and resource files. Software developers often use the shorthand form "Repo" for repository.
+: A centralized location that hosts multiple source codes and resource files. Software developers often use the shorthand form "Repo" for a repository.
 
 #### Version Control
 : A tracking and logging system that saves your source files.
