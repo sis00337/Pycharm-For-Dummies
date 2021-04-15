@@ -52,7 +52,7 @@ Before we get started, make sure you [meet the minimum system requirements](http
 PyCharm For Dummies was written with the following requirements in mind.
 
 * A functioning computer 
-* Windows 10 Operating System
+* Windows 10 operating system (OS)
 * Internet connection
 * Basic computer knowledge
 
