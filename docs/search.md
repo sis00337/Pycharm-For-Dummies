@@ -52,7 +52,7 @@ nav_order: 5
 : The act of updating local changes of a source file onto a remote repository.
 
 #### PyCharm
-: An integrated development environment (IDE) used in computer programming. It is specifically for the Python language.
+: An integrated development environment (IDE) used in computer programming. PyCharm is specifically for the Python language.
 
 #### Python
 : An object-oriented language that focuses on simple code syntax and readability. 
