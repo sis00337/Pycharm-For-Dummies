@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Linking to Github
+title: Linking to GitHub
 nav_order: 3
 has_children: false
 permalink: /docs/ui-components
 ---
 
-# Linking to Github
+# Linking to GitHub
 {: .no_toc}
 PyCharm allows you to connect your GitHub account and manage your GitHub projects directly from PyCharm. This GitHub integration saves you time when managing and contributing to different GitHub repositories.
 {: .fs-6 .fw-300 }
@@ -20,10 +20,9 @@ PyCharm allows you to connect your GitHub account and manage your GitHub project
 
 **Recommended**
 {: .label .label-blue }
-    Have an existing GitHub account and/or GitHub account credentials ready
-    before proceeding to ensure a smooth experience.
+    Have an existing GitHub account and/or GitHub account credentials ready to ensure a smooth experience.
 
-## Connect your GitHub account
+## Connect Your GitHub Account
 Adding your GitHub account to PyCharm can be a confusing process for first-time users. The following steps will allow you to smoothly add your account to PyCharm.
 
 1. From the project workspace, go to **File** -> **Settings** to access the main settings for PyCharm.
@@ -34,7 +33,7 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
     
     ![Connect-GitHub-Account-Step2](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-2.png?raw=true "Version Control -> GitHub")
 
-3.  Choose either Option A or Option B to log-in to your GitHub account.
+3.  Choose either **Option A** or **Option B** to log-in to your GitHub account.
 
     ![Connect-GitHub-Account-Step3](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-3.png?raw=true "Log-in Options A and B")
 
@@ -50,7 +49,7 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
         Option B serves as an alternative method should the Option A log-in process fails.
     
 ### Option A - Log-in with GitHub Credentials
-1. Click *Log in via GitHub...*.
+1. Click *Log in via GitHub...* .
    
 2. Wait for PyCharm to redirect you to a log-in page.
 
@@ -94,25 +93,25 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
         For security reasons, this newly generated token is "ONE TIME ACCESS" only.
         Ensure you have copied the key, or you will have to generate another access token.
 
-8. Back to PyCharm, click *Log in with Token...*.
+8. Back to PyCharm, click *Log in with Token...* .
 
-9. Paste your access token in the box and press *Add Account*. 
+9. Paste your access token in the box and press *Add Account* . 
 
     ![Paste-Access-Token](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-4.png?raw=true "Paste Access Token")
 
 10. [Verify your GitHub Account in PyCharm.](#verify-your-github-account-log-in)
 
-### Verify your GitHub Account Log-in
+### Verify Your GitHub Account Log-in
 1. Confirm your GitHub account details displayed next to the light blue arrow. Press *Apply* and press *OK* to save your changes. 
 
     ![Connect-GitHub-Account-Step4](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-5.png?raw=true "Confirm Settings")
 
 
-Success! You have successfully added your GitHub account to PyCharm.
+Success! You have added your GitHub account to PyCharm.
 
 ---
 
-## Control multiple GitHub accounts
+## Control Multiple GitHub Accounts
 PyCharm allows multiple accounts to be added and managed via the Version Control Settings menu. Follow the next steps to learn how to manage multiple GitHub accounts.
 
 1. Press **Ctrl+Alt+S** (default shortcut) to open the **Version Control Settings menu** or follow [Steps 1 and 2 in the previous section](#connect-your-github-account).
@@ -129,7 +128,7 @@ Success! You have learned to add, delete, and set default GitHub accounts on PyC
 
 ---
 
-## Share your project on GitHub
+## Share Your Project to GitHub
 PyCharm allows you to upload and share your project directly onto GitHub. Follow the next steps to learn how!
 
 
@@ -176,7 +175,7 @@ Success! You learned how to share a local PyCharm project to GitHub.
 
 ---
 
-## Clone an existing project to Pycharm
+## Clone an Existing Project to PyCharm
 1. In a new browser window go to an existing GitHub repository page that contains the project of interest.
 
 2. Click on the <span style="color:green">***CODE***</span> button to access the Git url. Click on the clipboard icon to copy the url.
@@ -191,9 +190,9 @@ Success! You learned how to share a local PyCharm project to GitHub.
 
     ![Paste-Git-URL](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-CloneRepo-3.png?raw=true "Paste Git URL")
 
-    1. Paste the copied Git url from Step 2 into the **URL box**.
+    1. In the **URL box**, paste the copied Git url.
     
-    2. Select where the cloned project will be stored in your directory.
+     2. In the **Directory box**, choose where the cloned project will be stored in your local computer.
     
     3. Press *Clone* to copy the GitHub repository to your computer.
     
