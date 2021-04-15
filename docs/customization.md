@@ -108,10 +108,6 @@ Congratulations! You committed and pushed the changes you made to the files!
     Committing and pushing after coding a function is ideal.
 
 ---
-    
-Now that we've looked at how to pull, commit, and push, you are good to go. Have fun working with your projects in PyCharm!
-
---- 
 ## Side-note
 {: .d-inline-block }
 **CAUTION**
@@ -121,3 +117,7 @@ If you have run into this error above, it means the repository has changes that 
 ![merge_conflict](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/merge_conflict.png?raw=true "conflict")
 
 ---
+    
+Now that we've looked at how to pull, commit, and push, you are good to go. Have fun working with your projects in PyCharm!
+
+--- 
