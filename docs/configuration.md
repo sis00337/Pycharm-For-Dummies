@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Configuration
+title: Setting up PyCharm
 nav_order: 2
 ---
 
-# Configuration
+# Setting up PyCharm
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+Before writing actual code with PyCharm, you need to make a basic setup for PyCharm.
+You will be able to create a new project in your PyCharm and Python file by successfully follow the steps below.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -19,180 +20,127 @@ Just the Docs has some specific configuration parameters that can be defined in 
 
 ---
 
+## Check if Python is Working
+If you successfully installed Python, Git, and PyCharm, the first thing you need to do is to check if your Python program is working.
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
+In Windows 10, you can check it using Command Prompt.
 
+1. Press ***WIN*** ( ![windows-key](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/windows_logo.png?raw=true "windows key") ) + ***R***.
 
-## Site logo
+2. Type **cmd** in the Run window and press *OK* as the figure below shows.
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+    ![cmd-run](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/run_cmd.png?raw=true "Run cmd")
+    
+    If you were able to open Command Prompt, the next step is to execute the Python in it.
 
-## Search
+3. Type **python** in your Command Prompt like below (<span style="color:red">**CASE INSENSITIVE**</span>).
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
+    ![cmd-python-implementation](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/1.cmd_python_implementation.png?raw=true "Python implementation in cmd")
+    
+    If it is successful, you can see the current version of your Python, and after that, you will see three close angled brackets(```>>>```).
+    
+    The brackets indicate that you are currently using the Python interpreter.
 
-search:
-  # Split pages into sections that can be searched individually
-  # Supports 1 - 6, default: 2
-  heading_level: 2
-  # Maximum amount of previews per search result
-  # Default: 3
-  previews: 3
-  # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
-  preview_words_before: 5
-  # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
-  preview_words_after: 10
-  # Set the search token separator
-  # Default: /[\s\-/]+/
-  # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
-  # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: true
-  # Enable or disable the search button that appears in the bottom right corner of every page
-  # Supports true or false (default)
-  button: false
-```
+    ![cmd-python-implementation2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/2.cmd_python_implementation_2.png?raw=true "Python implementation in cmd")
+    
+    **STOP**
+    {: .label .label-red }
+        If you failed to execute Python program in your Command Prompt, you MUST add Python to Windows PATH.
+        To add Python to Windows PATH, please see Troubleshooting - Add Python to PATH.
+    
+    Next, let's print **Hello World** using Python.
 
-## Aux links
+4. Type **print("Hello World")** next to the angled brackets and press *ENTER* (<span style="color:red">**CASE SENSITIVE**</span>).
 
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+    You will see **Hello World** is printed on your screen.
 
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
-```
+    ![cmd-hello-world](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/3.cmd_hello_world.png?raw=true "Print hello world in cmd")
 
-## Heading anchor links
+    **GO**
+    {: .label .label-green }
+        If you successfully followed the steps all the way here, it means your Python is perfectly working.
 
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false
-heading_anchors: true
-```
+5. Type **quit()** to terminate Python in your Command Prompt.
 
-## Footer content
+    ![cmd-quit](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/4.cmd_quit().png?raw=true "Quit Python from cmd")
 
-```yaml
-# Footer content
-# appears at the bottom of every page's main content
-# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
-markup / liquid-based content.
-footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+Great! Your Python seems to be working perfectly!
 
-# Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+Next, let's create a new project in PyCharm.
 
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/pmarsceill/just-the-docs" # the github URL for your repo
-gh_edit_branch: "master" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
-```
+## Create a New Project in PyCharm
+In this stage, you will be able to create a new project in your PyCharm.
 
-_note: `footer_content` is deprecated, but still supported. For a better experience we have moved this into an include called `_includes/footer_custom.html` which will allow for robust markup / liquid-based content._
+1. Open your PyCharm and click the *New Project* button.
 
-- the "page last modified" data will only display if a page has a key called `last_modified_date`, formatted in some readable date format
-- `last_edit_time_format` uses Ruby's DateTime formatter; see examples and more information [at this link.](https://apidock.com/ruby/DateTime/strftime)
-- `gh_edit_repository` is the URL of the project's GitHub repository
-- `gh_edit_branch` is the branch that the docs site is served from; defaults to `master`
-- `gh_edit_source` is the source directory that your project files are stored in (should be the same as [site.source](https://jekyllrb.com/docs/configuration/options/))
-- `gh_edit_view_mode` is `"tree"` by default, which brings the user to the github page; switch to `"edit"` to bring the user directly into editing mode
+    ![PyCharm-starting-page](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/5.PyCharm_Starting_Page.png?raw=true "PyCharm starting page")
 
-## Color scheme
+2. Click the arrow as is shown in the first red box and click the *etc* button (```...```) as the second red box shows.
+    
+    **GO**
+    {: .label .label-green }
+        If you can see an interpreter as the figure below, GO STRAIGHT TO STEP 5
 
-```yaml
-# Color scheme supports "light" (default) and "dark"
-color_scheme: dark
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
+    ![Creating-new-project-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/7.click_down_arrow.png?raw=true "Creating new project")
 
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+3. Select *System Interpreter* from the left navigation bar and click the *etc* button (```...```).
 
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
-    jtd.setTheme('light');
-    toggleDarkMode.textContent = 'Preview dark color scheme';
-  } else {
-    jtd.setTheme('dark');
-    toggleDarkMode.textContent = 'Return to the light side';
-  }
-});
-</script>
+    Then, find the path to *python.exe* file. It is usually in **C:\Users\\\[YOUR_USER_NAME\]\AppData\Local\Programs\Python\Python38\python.exe**.
 
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
+    **CAUTION**
+    {: .label .label-yellow }
+        The number with Python (e.g., Python38) may vary depending on the Python version you installed.
 
-## Google Analytics
+    When you have found your *python.exe* file, click the *OK* button.
 
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
-```
+    ![Creating-new-project-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/8.find_interpreter.png?raw=true "Creating new project 2")
 
-## Document collections
+4. Double check that you can see the interpreter correctly and press the *OK* button.
 
-By default, the navigation and search include normal [pages](https://jekyllrb.com/docs/pages/).
-Instead, you can also use [Jekyll collections](https://jekyllrb.com/docs/collections/) which group documents semantically together.
+    ![Creating-new-project-3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/9.Interpreter_found.png?raw=true "Creating new project 3")
 
-For example, put all your documentation files in the `_docs` folder and create the `docs` collection:
-```yaml
-# Define Jekyll collections
-collections:
-  # Define a collection named "docs", its documents reside in the "_docs" directory
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
+5. Press the *Create* button, then you get a new project in your PyCharm.
 
-just_the_docs:
-  # Define which collections are used in just-the-docs
-  collections:
-    # Reference the "docs" collection
-    docs:
-      # Give the collection a name
-      name: Documentation
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
-```
+    ![Creating-new-project-4](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/10.create_new_project.png?raw=true "Creating new project 4")
+    
+    After you create a new project, you will see a window like the figure below.
 
-You can reference multiple collections.
-This creates categories in the navigation with the configured names.
-```yaml
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
+    ![Creating-py-file-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/11.first_window_after_creating_project.png?raw=true "Createing py file 1")
 
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-    tutorials:
-      name: Tutorials
-```
+Fantastic! You successfully created a new project in your PyCharm!
 
+Next, let's create a **.py** file in your project.
+
+## Create **.py** File into the Project
+You will be able to create a **.py** file after completing the following steps.
+
+1. Right-click the project directory, hover on **New** and click **Python File** sequentially.
+
+    ![Creating-py-file-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/12.create_new_python_file.png?raw=true "Createing py file 2")
+
+2. Name your new **.py** file (HelloWorld in this example) and press *ENTER*.
+
+    ![Creating-py-file-3](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/13.creating_py_file.png?raw=true "Createing py file 3")
+    
+Brilliant! You successfully created a **.py** file in your project!
+
+You can also create multiple **.py** files in a project by repeating the steps above.
+
+Finally, let's run the **.py** file!
+
+## Run Your **.py** File
+Running your **.py** file is one of the fundamental practices for Python beginners because you can check if your codes are working by running the codes.
+
+You will be able to learn how to run a **.py** file by following the steps below.
+
+1. Type your Python code like **print("Hello World")**, right-click on your screen, and click *Run \[YOUR_FILE_NAME\]*
+
+    ![Run-your-py-file-1](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/14.run_py_file.png?raw=true "Run your py file 1")
+
+2. Check the result of the execution.
+
+    ![Run-your-py-file-2](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/15.after_run.png?raw=true "Run your py file 2")
+
+Congratulations!!! You successfully finished setting up your PyCharm.
+
+Next, try to follow [Linking to Github](https://harryseo1992.github.io/Pycharm-For-Dummies/docs/ui-components) if you want to use PyCharm more efficiently.
