@@ -41,7 +41,7 @@ This guide works with the following program versions noted below. Higher version
 
 ## Getting Started
 
-This guide is intended for programming students looking for a professional IDE to take advantage of during their first Python course. The guide assumes you have completed the following prerequisites. 
+This guide is intended for programming students looking for a professional IDE to take advantage of during their first Python course. The guide assumes you have completed the above prerequisites. 
 
 Before we get started, make sure you [meet the minimum system requirements](https://www.jetbrains.com/help/pycharm/installation-guide.html#requirements) for PyCharm.
 
