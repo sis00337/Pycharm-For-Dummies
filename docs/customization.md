@@ -2,6 +2,7 @@
 layout: default
 title: Working with Version Control
 nav_order: 4
+permalink: /docs/customization
 ---
 
 # Working with Version Control
