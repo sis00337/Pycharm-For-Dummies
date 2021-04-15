@@ -49,7 +49,7 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
         Option B serves as an alternative method should the Option A log-in process fails.
     
 ### Option A - Log-in with GitHub Credentials
-Option A will show you how to use your GitHub credentials to sign-in directly from GitHub to add the associated account to PyCharm.
+This option will show you how to use your GitHub credentials to log-in directly from GitHub to add the associated account to PyCharm.
 
 1. Click *Log in via GitHub...* .
    
@@ -65,7 +65,7 @@ Option A will show you how to use your GitHub credentials to sign-in directly fr
 
 
 ### Option B - Log-in with Personal Access Token
-Option B will show you how to generate a personal accesss token from GitHub to add the associated account to PyCharm.
+This option will show you how to generate a personal accesss token from GitHub to add the associated account to PyCharm.
 
 1. In a new browser window, go to [GitHub](https://github.com/) and log-in to your GitHub account.
 
@@ -131,9 +131,9 @@ PyCharm allows multiple accounts to be added and managed via the Version Control
 
 1. Press **Ctrl+Alt+S** (default shortcut) to open the **Version Control Settings menu** or follow [Steps 1 and 2 in the previous section](#connect-your-github-account).
 
-2. Add multiple GitHub accounts by pressing the *+* button and follow the same procedure to [add a GitHub account starting in the previous section](#connect-your-github-account).
+2. Add multiple GitHub accounts by pressing the *+* button and follow the same procedure to [add a GitHub account in the previous section](#connect-your-github-account).
 
-    ![Control-GitHub-Accounts](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-MultipleAccounts.png?raw=true "Control GitHub Accounts")
+    ![Control-GitHub-Accounts](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-MultipleAccounts.png?raw=true "Control GitHub Accounts")
 
 3. Delete a GitHub account by selecting the chosen account and press the *-* button.
 
