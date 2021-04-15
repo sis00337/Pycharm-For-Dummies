@@ -23,6 +23,12 @@ PyCharm for dummies is a document with multiple walkthroughs to help people util
 
 ---
 
+## Preface
+
+PyCharm is one of the many IDEs (Integrated Development Environments) provided by JetBrains. It is available across many platforms such as Windows and Mac. It provides many features like debugging, analyzing codes, and version control integrations. With its vast number of features that are easy to utilize, it has become one of the best IDEs for beginners or prfessionals alike.
+
+---
+
 ## Prerequisites
 
 This guide works with the following program versions noted below. Higher versions may not work depending on future changes.
