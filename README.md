@@ -25,23 +25,23 @@ We hope you find this helpful!
 
 ## Any information that I should know about before starting?
 
-[Read through the Introduction Section first](https://harryseo1992.github.io/Pycharm-For-Dummies/) for usage information.
+[Read through the Introduction Section first](https://sis00337.github.io/Pycharm-For-Dummies/) for usage information.
 
 
 ## I'm ready to start learning!
 
 Good! Happy to hear you are still with us! Take a look at the guides available to help you ease into PyCharm!
 
-![read_guides](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/take_a_look_at_our_guides.png?raw=true "Our guides!")
+![read_guides](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/take_a_look_at_our_guides.png?raw=true "Our guides!")
 
 ## I'm running into jargons!
 
-While we made sure to be clear and concise, these are terms you will have to run into sooner or later. However, we are aware that people have to start from somewhere and have included them in our [Glossary Section](https://harryseo1992.github.io/Pycharm-For-Dummies/docs/search/).
+While we made sure to be clear and concise, these are terms you will have to run into sooner or later. However, we are aware that people have to start from somewhere and have included them in our [Glossary Section](https://sis00337.github.io/Pycharm-For-Dummies/docs/search/).
 
 
 ## I'm so lost. I'm not getting the results I should be getting...
 
-Every situation is different, and they are frustrating when it happens to us. In an attempt to accomodate for these situations, we have listed the fixes for common problems that may occur when using PyCharm in our [Troubleshooting Section](https://harryseo1992.github.io/Pycharm-For-Dummies/docs/index-test/).
+Every situation is different, and they are frustrating when it happens to us. In an attempt to accomodate for these situations, we have listed the fixes for common problems that may occur when using PyCharm in our [Troubleshooting Section](https://sis00337.github.io/Pycharm-For-Dummies/docs/index-test/).
 
 
 ## Closing off
