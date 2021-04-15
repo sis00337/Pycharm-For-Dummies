@@ -117,5 +117,3 @@ If you have run into this error above, it means the repository has changes that 
 ---
     
 Congratulations!!! Now that we've looked at how to pull, commit, and push, you are good to go. Have fun working with your projects in PyCharm!
-
---- 
