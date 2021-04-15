@@ -49,7 +49,7 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
         Option B serves as an alternative method should the Option A log-in process fails.
     
 ### Option A - Log-in with GitHub Credentials
-For Option A, your GitHub credentials are needed to sign-in directly from GitHub to add the associated account to PyCharm.
+Option A will show you how to use your GitHub credentials to sign-in directly from GitHub to add the associated account to PyCharm.
 
 1. Click *Log in via GitHub...* .
    
@@ -61,11 +61,11 @@ For Option A, your GitHub credentials are needed to sign-in directly from GitHub
     {: .label .label-green }
         To proceed to the next step please click on the following link.
         
-    [Verifying your GitHub account.](#verify-your-github-account-log-in)
-    > [Verifying your GitHub account.](#verify-your-github-account-log-in)
+    [Verify Your GitHub Account Log-in](#verify-your-github-account-log-in)
+
 
 ### Option B - Log-in with Personal Access Token
-For Option B, a personal accesss token will be generated from GitHub to add the associated account to PyCharm.
+Option B will show you how to generate a personal accesss token from GitHub to add the associated account to PyCharm.
 
 1. In a new browser window, go to [GitHub](https://github.com/) and log-in to your GitHub account.
 
@@ -110,10 +110,12 @@ For Option B, a personal accesss token will be generated from GitHub to add the 
 
     **GO**
     {: .label .label-green }
-        Proceed to the next step by [verifying your GitHub account.](#verify-your-github-account-log-in)
+        To proceed to the next step please click on the following link.
+        
+    [Verify Your GitHub Account Log-in](#verify-your-github-account-log-in)
 
 ### Verify Your GitHub Account Log-in
-PyCharm allows you to quickly verify
+PyCharm allows you to quickly check which GitHub accounts are currently connected to PyCharm.
 
 1. Confirm your GitHub account details displayed next to the light blue arrow. Press *Apply* and press *OK* to save your changes. 
 
