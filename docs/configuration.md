@@ -2,6 +2,7 @@
 layout: default
 title: Setting up PyCharm
 nav_order: 2
+permalink: /docs/configuration
 ---
 
 # Setting up PyCharm
