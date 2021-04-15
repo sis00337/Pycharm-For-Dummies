@@ -69,7 +69,7 @@ In Windows 10, you can check it using Command Prompt.
 
     ![cmd-quit](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/4.cmd_quit().png?raw=true "Quit Python from cmd")
 
-Great! Your Python seems to be working perfectly!
+Success! Your Python seems to be working perfectly.
 
 Next, let's create a new project in PyCharm.
 
@@ -114,7 +114,7 @@ In this stage, you will be able to create a new project in your PyCharm.
 
     ![Creating-py-file-1](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/11.first_window_after_creating_project.png?raw=true "Createing py file 1")
 
-Fantastic! You successfully created a new project in your PyCharm!
+Success! You have created a new project in your PyCharm.
 
 Next, let's create a **.py** file in your project.
 
@@ -131,7 +131,7 @@ You will be able to create a **.py** file after completing the following steps.
 
     ![Creating-py-file-3](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/13.creating_py_file.png?raw=true "Createing py file 3")
     
-Brilliant! You successfully created a **.py** file in your project!
+Success! You have created a **.py** file in your project.
 
 You can also create multiple **.py** files in a project by repeating the steps above.
 
@@ -151,6 +151,10 @@ You will be able to learn how to run a **.py** file by following the steps below
 2. Check the result of the execution.
 
     ![Run-your-py-file-2](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/15.after_run.png?raw=true "Run your py file 2")
+
+Success! You have executed your Python code.
+
+---
 
 Congratulations!!! You successfully finished setting up your PyCharm.
 
