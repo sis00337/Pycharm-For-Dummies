@@ -1,0 +1,12 @@
+- text: Introduction
+  url: /
+- text: Setting up PyCharm
+  url: /docs/configuration/
+- text: Linking to Github
+  url: /docs/ui-components/
+- text: Working with Version Control
+  url: /docs/customization/
+- text: Glossary
+  url: /docs/search/
+- text: Troubleshooting
+  url: /docs/index-test/
