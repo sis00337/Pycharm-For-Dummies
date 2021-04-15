@@ -108,8 +108,7 @@ Success! You committed and pushed the changes you made to the files!
 ---
 ## Side-note
 {: .d-inline-block }
-**CAUTION**
-{: .label .label-yellow }
+
 If you have run into this error above, it means the repository has changes that your local files have not received yet. You can press _Merge_ here to push and update your current files. However, it is good practice to **pull first** before committing and pushing.
 
 ![merge_conflict](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/merge_conflict.png?raw=true "conflict")
