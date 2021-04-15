@@ -48,6 +48,10 @@ Congratulations! You should see a pop-up that indicates successful project updat
 
 ---
 
+Now, let's take a look at how to **commit and push changes**.
+
+---
+
 ## Committing and Pushing Changes       
 
 
