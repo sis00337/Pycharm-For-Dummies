@@ -61,7 +61,8 @@ For Option A, your GitHub credentials are needed to sign-in directly from GitHub
     {: .label .label-green }
         To proceed to the next step please click on the following link.
         
-    [verifying your GitHub account.](#verify-your-github-account-log-in)
+    [Verifying your GitHub account.](#verify-your-github-account-log-in)
+    > [Verifying your GitHub account.](#verify-your-github-account-log-in)
 
 ### Option B - Log-in with Personal Access Token
 For Option B, a personal accesss token will be generated from GitHub to add the associated account to PyCharm.
