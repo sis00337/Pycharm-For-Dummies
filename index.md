@@ -57,7 +57,7 @@ PyCharm For Dummies was written with the following requirements in mind.
 The guide will cover the following basic tasks that are essential for beginners. Screenshots and helpful hints will be provided throughout the guide to promote understanding.
 
 1. Setting up PyCharm
-2. Linking to Github Account 
+2. Linking to GitHub Account 
 3. Working with Version Control
 
 ---
@@ -95,10 +95,10 @@ For example:
 
   3. If the burglar managed to get into your house, **_CALL 911_**
 
-   ![screenshot_example](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/call911.png?raw=true "calling 911")
+   ![screenshot_example](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/call911.png?raw=true "calling 911")
 
 ---
 
 
 
-![pycharm-logo](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/PyCharm-Icon-Small.png?raw=true "Pycharm logo")
+![pycharm-logo](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/PyCharm-Icon-Small.png?raw=true "Pycharm logo")
