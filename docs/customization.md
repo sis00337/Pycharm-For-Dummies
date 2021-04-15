@@ -2,11 +2,12 @@
 layout: default
 title: Working with Version Control
 nav_order: 4
-permalink: /docs/customization
 ---
 
 # Working with Version Control
 {: .no_toc }
+
+When programming, it is important to be able to work with and maintain version control. By following the guide below, you will become familiar with version control.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -24,12 +25,12 @@ As you learn how to code, you soon realize that there will be a lot of group cod
 
 1. Press the _update project button_.
     
-    ![pulling](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_project.png?raw=true "Update project button")
+    ![pulling](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_project.png?raw=true "Update project button")
 
 
 2. Check off _Merge incoming changes into the current branch_ then press _ok_.
     
-    ![merging](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/merge_project.png?raw=true "Merge project")
+    ![merging](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/merge_project.png?raw=true "Merge project")
 
     **Recommended**
     {: .label .label-blue } 
@@ -41,7 +42,7 @@ As you learn how to code, you soon realize that there will be a lot of group cod
 
 Congratulations! You should see a pop-up that indicates successful project update.
 
-![success](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_success_real.png?raw=true "Updated project")
+![success](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_success_real.png?raw=true "Updated project")
 
 ---
 
@@ -55,24 +56,24 @@ We have all experienced losing our saved work whether by forgetting where we hav
 
 If you see your files change colour as highlighted below, it means there are changes made that is not saved.       
 
-![committing_changes](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_highlighted.png?raw=true "committing changes")
+![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_highlighted.png?raw=true "committing changes")
 
 
 As highlighted below, you will see 3 shapes on the top right of your PyCharm.
 
 1. Press the *Check-mark shape* to commit.
 
-    ![committing_changes](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_button_highlighted.png?raw=true "committing changes")
+    ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_button_highlighted.png?raw=true "committing changes")
 
 
 2. Check the files you want to save.
 
-    ![committing_changes](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_message_highlighted.png?raw=true "committing changes")
+    ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_message_highlighted.png?raw=true "committing changes")
 
 
 3. Fill out the changes you have made to those files.
 
-    ![committing_changes](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_message_filledout.png?raw=true "committing changes")
+    ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_message_filledout.png?raw=true "committing changes")
 
     Simple descriptions that others can understand what changes you have made are best.
 
@@ -84,13 +85,13 @@ As highlighted below, you will see 3 shapes on the top right of your PyCharm.
    
 4. Press the downward arrow next to *commit button*.
 
-    ![committing_changes](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_and_push.png?raw=true "committing changes")
+    ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_and_push.png?raw=true "committing changes")
 
     You will be led to a new window detailing what will be pushed.
 
 5. Press *commit and push* and then _push_.
 
-    ![committing_changes](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_and_push_finally_pushing.png?raw=true "committing changes")
+    ![committing_changes](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/commit_and_push_finally_pushing.png?raw=true "committing changes")
 
 
 Congratulations! You committed and pushed the changes you made to the files! 
@@ -108,6 +109,6 @@ Congratulations! You committed and pushed the changes you made to the files!
 {: .label .label-yellow }
 If you have run into this error above, it means the repository has changes that your local files have not received yet. You can press _Merge_ here to push and update your current files. However, it is good practice to **pull first** before committing and pushing.
 
-![merge_conflict](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/merge_conflict.png?raw=true "conflict")
+![merge_conflict](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/merge_conflict.png?raw=true "conflict")
 
 ---
