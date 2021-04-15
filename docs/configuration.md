@@ -47,7 +47,9 @@ In Windows 10, you can check it using Command Prompt.
     **STOP**
     {: .label .label-red }
         If you failed to execute Python program in your Command Prompt, you MUST add Python to Windows PATH.
-        To add Python to Windows PATH, please see Troubleshooting - Python Not Working in Your Command Prompt.
+        To add Python to Windows PATH, please click the link below.
+    
+    [Troubleshooting - Python Not Working in Your Command Prompt](https://sis00337.github.io/Pycharm-For-Dummies/docs/index-test/#python-not-working-in-your-command-prompt)
     
     Next, let's print **Hello World** using Python.
 
