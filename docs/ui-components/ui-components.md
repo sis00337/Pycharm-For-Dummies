@@ -49,15 +49,20 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
         Option B serves as an alternative method should the Option A log-in process fails.
     
 ### Option A - Log-in with GitHub Credentials
+For Option A, your GitHub credentials are needed to sign-in directly from GitHub to add the associated account to PyCharm.
+
 1. Click *Log in via GitHub...* .
    
 2. Wait for PyCharm to redirect you to a log-in page.
 
 3. Enter your GitHub account credentials. If successful, the log-in page will redirect you back to PyCharm. 
 
-4. [Verify GitHub Account](#verify-your-github-account-log-in)
+Proceed to the next step by [verifying your GitHub account.](#verify-your-github-account-log-in)
+
 
 ### Option B - Log-in with Personal Access Token
+For Option B, a personal accesss token will be generated from GitHub to add the associated account to PyCharm.
+
 1. In a new browser window, go to [GitHub](https://github.com/) and log-in to your GitHub account.
 
 2. Click on *your profile picture* located in the top right corner and click on *Settings* to access your account settings.
@@ -99,7 +104,7 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
 
     ![Paste-Access-Token](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-4.png?raw=true "Paste Access Token")
 
-10. [Verify your GitHub Account in PyCharm.](#verify-your-github-account-log-in)
+Proceed to the next step by [verifying your GitHub account.](#verify-your-github-account-log-in)
 
 ### Verify Your GitHub Account Log-in
 1. Confirm your GitHub account details displayed next to the light blue arrow. Press *Apply* and press *OK* to save your changes. 
