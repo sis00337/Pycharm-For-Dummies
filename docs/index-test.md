@@ -17,7 +17,6 @@ nav_order: 6
 {:toc}
 
 ---
-
 # Python Not Working in Your Command Prompt
 
 If your Python is not on your **PATH**, your Python will not be working in your Command Prompt.
@@ -61,7 +60,6 @@ Let's do it!!
     ![Changing-path-3](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/changing_path_3.png?raw=true "Changing path 3")
 
 ---
-
 # Cannot Directly Log-in to GitHub Account.
 If you are unable to log-in with your GitHub account credentials. [Try logging-in with a personal access token.](./ui-components/ui-components.md#option-b---log-in-with-personal-access-token)
 
