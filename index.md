@@ -9,7 +9,7 @@ permalink: /
 # Introduction
 {: .fs-9 }
 {: .no_toc}
-Pycharm for dummies is a document with multiple walkthroughs to help people utilize one of the many IDEs (Integrated Development Environments) called PyCharm to its maximum potential. The guide will help you through basic tasks such as setting up PyCharm and other basic PyCharm functions that any beginner would want to know.
+PyCharm for dummies is a document with multiple walkthroughs to help people utilize one of the many IDEs (Integrated Development Environments) called PyCharm to its maximum potential. The guide will help you through basic tasks such as setting up PyCharm and other basic PyCharm functions that any beginner would want to know.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/sis00337/Pycharm-For-Dummies){: .btn .fs-5 .mb-4 .mb-md-0 }
