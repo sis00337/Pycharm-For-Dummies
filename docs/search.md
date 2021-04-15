@@ -31,7 +31,7 @@ nav_order: 5
 : The act of saving and logging changes to a source file.
 
 #### Environment variables
-: An environment variable is a dynamic "object" on a computer. The variable contains an editable value that can be used by one or more software programs in Windows operating system. Environment variables let programs know where to find user profile settings, where to store temporary files, and what directory to install files in.
+: An environment variable is a dynamic "object" on a computer. It contains an editable value that can be used by one or more software programs in Windows operating system. Environment variables let programs know where to find user profile settings, where to store temporary files, and what directory to install files in.
 
 #### Git
 : An open-sourced version control software used by many developers to track and manage file changes. This software is useful when collaborating in a software development environment.
@@ -40,7 +40,7 @@ nav_order: 5
 : A popular Git repository hosting service.
 
 #### IDE
-: IDE stands for the integrated development environment. IDE is an application that provides comprehensive tools and functions to computer programmers for software development.
+: IDE stands for the Integrated Development Environment. IDE is an application that provides comprehensive tools and functions to computer programmers for software development.
 
 #### Interpreter
 :  An interpreter is a program that reads and executes code.
@@ -52,13 +52,13 @@ nav_order: 5
 : The act of updating local changes of a source file onto a remote repository.
 
 #### PyCharm
-: An integrated development environment (IDE) used in computer programming. PyCharm is specifically for the Python language.
+: An Integrated Development Environment (IDE) used in computer programming. PyCharm is specifically used for programmers who use Python language.
 
 #### Python
 : An object-oriented language that focuses on simple code syntax and readability. 
 
 #### Repository
-: A centralized location that hosts multiple source codes and resource files. Software developers often use the shorthand form "Repo" for a repository.
+: A centralized location that hosts multiple source codes and resource files. Software developers often use the shorthand form "Repo" for repository.
 
 #### Version Control
 : A tracking and logging system that saves your source files.
