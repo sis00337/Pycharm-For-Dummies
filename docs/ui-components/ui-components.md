@@ -107,7 +107,7 @@ Adding your GitHub account to PyCharm can be a confusing process for first-time 
 
     ![Connect-GitHub-Account-Step4](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-AccountLogIn-5.png?raw=true "Confirm Settings")
     
-Congrats! You have sucessfully added your GitHub account to PyCharm.
+Success! You have sucessfully added your GitHub account to PyCharm.
 
 ---
 
@@ -124,7 +124,7 @@ PyCharm allows multiple accounts to be added and managed via the Version Control
 
 4. Set a default GitHub account be selecting the choesn account and press the **check symbol** button.
 
-Congrats! You have learned to add, delete, and set default GitHub accounts on PyCharm.
+Success! You have learned to add, delete, and set default GitHub accounts on PyCharm.
 
 ---
 
@@ -170,7 +170,7 @@ PyCharm allows you to upload and share your project directly onto GitHub. Follow
 
     ![Project Repositiory](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/Link-GitHub-ShareProject-5.png?raw=true "Project Repositiory")
     
-Congrats! You learned how to share a local PyCharm project to GitHub.
+Success! You learned how to share a local PyCharm project to GitHub.
 
 ---
 
