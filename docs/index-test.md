@@ -9,7 +9,6 @@ nav_order: 6
 {: .no_toc}
 {: .fs-6 .fw-300 }
 
----
 
 ## TABLE OF CONTENTS
 {: .no_toc .text-delta}
@@ -59,6 +58,8 @@ Let's do it!!
 7. Click *OK* again. Then, you will have successfully added your Python on **PATH**.
 
     ![Changing-path-3](https://github.com/sis00337/Pycharm-For-Dummies/blob/gh-pages/assets/images/changing_path_3.png?raw=true "Changing path 3")
+
+---
 
 # Cannot Directly Log-in to GitHub Account.
 If you are unable to log-in with your GitHub account credentials. [Try logging-in with a personal access token.](./ui-components/ui-components.md#option-b---log-in-with-personal-access-token)
