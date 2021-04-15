@@ -12,7 +12,7 @@ permalink: /
 Pycharm for dummies is a document with multiple walkthroughs to help people utilize one of the many IDEs (Integrated Development Environments) called PyCharm to its maximum potential. The guide will help you through basic tasks such as setting up PyCharm and other basic PyCharm functions that any beginner would want to know.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/harryseo1992/Pycharm-For-Dummies){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/sis00337/Pycharm-For-Dummies){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -74,19 +74,19 @@ Convention | Description
 
 GO 
 {: .label .label-green }
-    Proceed to the next step
+    Proceed to the next step.
 
 Stop 
 {: .label .label-red }
-    Make sure you have done the following warning before continuing
+    Make sure you have done the following warning before continuing.
 
 Caution 
 {: .label .label-yellow }
-    Pay attention to the following warning to avoid problematic mistakes
+    Pay attention to the following warning to avoid problematic mistakes.
 
 Recommended 
 {: .label .label-blue }
-    Useful hints and tips
+    Useful hints and tips.
 
 Each guide will have steps and a screenshot / screenshots to follow through the steps to provide more detail. 
 For example:
