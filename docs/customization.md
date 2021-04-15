@@ -7,7 +7,9 @@ nav_order: 4
 # Working with Version Control
 {: .no_toc }
 
+
 When programming, it is important to be able to work with and maintain version control. By following the guide below, you will become familiar with version control.
+{: .fs-6 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
