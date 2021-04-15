@@ -80,19 +80,19 @@ Convention | Description
 
 The following color-coded labels will provide helful warnings to ensure a smooth experience.
 
-GO 
+**GO** 
 {: .label .label-green }
     Proceed to the next step.
 
-Stop 
+**Stop** 
 {: .label .label-red }
     Make sure you have done the following warning before continuing.
 
-Caution 
+**Caution**
 {: .label .label-yellow }
     Pay attention to the following warning to avoid problematic mistakes.
 
-Recommended 
+**Recommended**
 {: .label .label-blue }
     Useful hints and tips.
 
