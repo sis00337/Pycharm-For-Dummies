@@ -39,7 +39,7 @@ As you learn how to code, you soon realize that there will be a lot of group cod
             "Rebase the current branch on top of incoming changes" will 
             also integrate changes from one branch to another. However, rebasing
             can be dangerous because it can "rewrite history" of shared branches.
-            Therefore, it is better to _Merge incoming changes_ instead.
+            Therefore, it is better to "Merge incoming changes" instead.
 
 
 Congratulations! You should see a pop-up that indicates successful project update.
