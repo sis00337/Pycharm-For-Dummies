@@ -46,8 +46,6 @@ Success! You should see a pop-up that indicates successful project update.
 
 ![success](https://github.com/harryseo1992/Pycharm-For-Dummies/blob/gh-pages/assets/images/update_success_real.png?raw=true "Updated project")
 
----
-
 Now, let's take a look at how to **commit and push changes**.
 
 ---
