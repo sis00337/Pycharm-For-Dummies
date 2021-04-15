@@ -150,4 +150,4 @@ You will be able to learn how to run a **.py** file by following the steps below
 
 Congratulations!!! You successfully finished setting up your PyCharm.
 
-Next, try to follow [Linking to Github](https://sis00337.github.io/Pycharm-For-Dummies/docs/ui-components) if you want to use PyCharm more efficiently.
+Next, try to follow [Linking to GitHub](https://sis00337.github.io/Pycharm-For-Dummies/docs/ui-components) if you want to use PyCharm more efficiently.
